@@ -1,0 +1,6 @@
+{
+  "name": "Pet Shop Dog de Luxo – Estética Canina & Táxi Dog em Guarulhos",
+  "description": "Pet Shop Dog de Luxo em Guarulhos. Banho, tosa especializada, Táxi Dog e boutique com nota 5.0 no Google Maps com base em mais de 350 avaliações de tutores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
